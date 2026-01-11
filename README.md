@@ -9,11 +9,6 @@ Backend do sistema **Bingo Driven**, responsável pelo gerenciamento do bingo.
 https://dashboard.render.com/web/srv-d5i0p595pdvs73boprrg
 ``` 
 
-**Imagem Docker**
-```
-https://hub.docker.com/repository/docker/marcelorbarbosa92/bingo-deploy/general
-```
-
 ## STACK
 <ul>
   <li>Node.js</li>
