@@ -47,4 +47,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/daily-kindness-backend:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/bingo-backend:latest
