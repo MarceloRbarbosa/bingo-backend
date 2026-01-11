@@ -35,6 +35,7 @@ networks:
     bingonetwork:
       name: bingonetwork
 
+
 volumes:
     bingovolume:
 
