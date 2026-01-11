@@ -6,7 +6,7 @@ Backend do sistema **Bingo Driven**, responsável pelo gerenciamento do bingo.
 
 **API em produção (Render)**
 ```
-https://dashboard.render.com/web/srv-d5i0p595pdvs73boprrg
+https://bingo-backend-deploy.onrender.com
 ``` 
 
 ## STACK
