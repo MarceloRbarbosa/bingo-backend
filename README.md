@@ -7,6 +7,8 @@ Backend do sistema **Bingo Driven**, responsável pelo gerenciamento do bingo.
 **API em produção (Render)**
 ```
 https://bingo-backend-deploy.onrender.com
+
+https://bingo-backend-deploy.onrender.com/health (Rota de saúde)
 ``` 
 
 ## STACK
